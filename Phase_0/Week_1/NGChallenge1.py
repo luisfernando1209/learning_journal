@@ -9,7 +9,7 @@ jumlah = 0
 for item in numbers :
     if item %2 == 0 :
         if item == 918:
-            continue
+            break
         print(item)
 print("Done")
 
