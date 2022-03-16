@@ -8,10 +8,13 @@ numbers = [951, 402, 984, 651, 360, 69, 408,
 jumlah = 0
 for item in numbers :
     if item %2 == 0 :
-        if item == 918:
+        if item == 412:
             break
         print(item)
 print("Done")
+
+
+
 
 
 
